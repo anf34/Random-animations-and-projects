@@ -1,2 +1,2 @@
-# Learning how to git
+# Random animations and projects
 Random p5 coding challenges
