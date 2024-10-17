@@ -1,4 +1,6 @@
 //RG colour selector :)
+//IN PROGRESS
+//Aim: display all the RGB colours in a window.
 
 //Next to Implement:
 
