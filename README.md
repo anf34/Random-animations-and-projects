@@ -1,5 +1,4 @@
-# Random animations and projects
-Random p5 coding challenges
+#Miscellanious animations, projects and coding challenges in p5
 
 Description of each challenge
 RGB Selector:
