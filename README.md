@@ -6,5 +6,4 @@ An assortment of animations, projects and coding challenges in p5
 RGB Selector:
 An exercise in making a custom colour selector similar to those found in many writing and creative applications.
 
-To be continued!!
-hello
+To be continued!
