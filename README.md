@@ -7,4 +7,5 @@ An assortment of animations, projects and coding challenges in p5
 
 Exercises in making custom colour selectors similar to those found in many writing and creative applications.
 
-To be continued!
+
+*To be continued!*
