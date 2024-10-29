@@ -3,11 +3,4 @@ This is the first line
 The second line is longer
 And now the last line.
 
--haiku (or hokku) by me. Im learning how to use git.
-the addition at the end is super cringe
-How do you write a tanka?
-insert tanka here
-
-Awesome
-Nerd
-Funny
+-haiku (or hokku) by me. Im learning how to use git
