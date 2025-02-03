@@ -1,5 +1,5 @@
 # Miscellanious projects in p5
-An assortment of animations, projects and coding challenges in p5
+An assortment of animations, projects and coding challenges in p5.
 
 ## Description of each project:
 
