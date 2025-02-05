@@ -5,9 +5,10 @@
 Exercises in making custom colour selectors similar to those found in many writing and creative applications.
 
 
-_In progress_
-__ ## Nature of Code:
+_To do/In progress_
+_## Nature of Code:_
 
-Following along Dan Schiffman's Nature of Code, featuring various coding projects in simulating life/nature.
+_Following along Dan Schiffman's Nature of Code, featuring various coding projects in simulating life/nature._
 
-## P5/Javascript class generator__
+_## P5/Javascript class generator_
+_A visual application to assist in efficiently and quickly making classes with built in test cases_
